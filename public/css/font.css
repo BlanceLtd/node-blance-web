@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'blance';
+  src:  url('../fonts/blance.eot?ohq9mo');
+  src:  url('../fonts/blance.eot?ohq9mo#iefix') format('embedded-opentype'),
+    url('../fonts/blance.ttf?ohq9mo') format('truetype'),
+    url('../fonts/blance.woff?ohq9mo') format('woff'),
+    url('../fonts/blance.svg?ohq9mo#blance') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'blance' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-01:before {
+  content: "\e900";
+  color: #76c4c0;
+}
+.icon-02:before {
+  content: "\e901";
+  color: #76c4c0;
+}
+.icon-03:before {
+  content: "\e902";
+  color: #76c4c0;
+}
+.icon-04:before {
+  content: "\e903";
+  color: #76c4c0;
+}
+.icon-05:before {
+  content: "\e904";
+  color: #76c4c0;
+}
